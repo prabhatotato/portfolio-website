@@ -3,7 +3,7 @@
 *{
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     scroll-behavior: smooth;
     font-family: 'Be Vietnam Pro', sans-serif;
 }
@@ -30,8 +30,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-    padding-top: 1rem;
+   
+    /* padding-top: 1rem; */
 }
 
 
@@ -484,7 +484,7 @@ a{
 }
 
 #project1{
-    background-image: url(images/projects/Project1.png);
+    background-image: url(images/projects/cover_razor_pay.png);
 }
 
 #project2{
